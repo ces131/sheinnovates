@@ -10,10 +10,10 @@ Tips for Safe drinking(OVER 21): http://www.knowyourlimits.info/know%E2%80%A6-yo
 
 
 
-
-
-
-
+Home/Dorm Ec:
+how to sew a button:http://www.artofmanliness.com/2012/06/28/sewing-on-a-button/
+how to do laundry:https://www.youtube.com/watch?v=OavAnJ9Jegs
+how to remove a stain: https://www.youtube.com/watch?v=ITmepPy1JCc
 
 
 
