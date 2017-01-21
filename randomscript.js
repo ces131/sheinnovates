@@ -57,6 +57,7 @@ if (cat5) { categories.push(cat5name) };
 if (cat6) { categories.push(cat6name) };            
 if (cat11) { categories.push(cat11name) };                        
 
+//here is where alteration in display will need to happen. For each incorrect will need to find how to include link
 var catStr = 'You answered the following questions incorrectly: ' + categories.join(', ') + '';                     
 $("#categorylist").text(catStr);                        
 $("#categorylist").show("slow");            
