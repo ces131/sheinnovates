@@ -41,6 +41,7 @@ Travel Tips: https://www.roughguides.com/article/14-travel-tips-everyone-should-
 How to pack a suitcase: http://www.realsimple.com/work-life/travel/travel-planning/pack-suitcase
 How to plan a trip https://www.youtube.com/watch?v=FmE0LosIMRo
 Google translate https://translate.google.com/
+Words to learn https://www.mappingmegan.com/words-and-phrases-to-know-in-every-language/
 
 City survival
 PICTURE https://i.ytimg.com/vi/RaTMdOeZzVo/maxresdefault.jpg
