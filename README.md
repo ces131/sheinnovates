@@ -36,3 +36,4 @@ How to pack a suitcase: http://www.realsimple.com/work-life/travel/travel-planni
 City survival
 PICTURE https://i.ytimg.com/vi/RaTMdOeZzVo/maxresdefault.jpg
 Download the transit app for bus times! https://transitapp.com/
+Things to do in pittsburgh https://www.visitpittsburgh.com/things-to-do/
