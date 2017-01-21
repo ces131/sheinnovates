@@ -40,6 +40,7 @@ Hello in Different Languages: https://www.youtube.com/watch?v=Id67TMSKOzs
 Travel Tips: https://www.roughguides.com/article/14-travel-tips-everyone-should-know/
 How to pack a suitcase: http://www.realsimple.com/work-life/travel/travel-planning/pack-suitcase
 How to plan a trip https://www.youtube.com/watch?v=FmE0LosIMRo
+Google translate https://translate.google.com/
 
 City survival
 PICTURE https://i.ytimg.com/vi/RaTMdOeZzVo/maxresdefault.jpg
