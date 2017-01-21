@@ -32,6 +32,7 @@ Family Parties: https://www.youtube.com/watch?v=BahAbX7yWX8
 Career Help: https://www.youtube.com/watch?v=BahAbX7yWX8
 What not to do at interviews: http://www.cheatsheet.com/money-career/the-5-worst-things-to-do-during-a-job-interview.html/?a=viewall
 How to write a resume: https://resumegenius.com/how-to-write-a-resume
+How to dress buisness Casual https://www.youtube.com/watch?v=mrq9h7eRZ-w
 
 Language/Travel Picture: http://www.worldaffairsjournal.org/sites/default/files/styles/full_view/public/800px-Michelle_Obama_arrives_at_Pope_AFB_3-12-09_2.jpg?itok=uiqu7qXH
 Hello in Different Languages: https://www.youtube.com/watch?v=Id67TMSKOzs
