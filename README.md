@@ -13,8 +13,8 @@ How to do Laundry: https://www.youtube.com/watch?v=OavAnJ9Jegs
 How to sew a button:http://www.artofmanliness.com/2012/06/28/sewing-on-a-button/
 How to cook eggs in the microwave: https://www.buzzfeed.com/arielknutson/easy-ways-to-cooks-eggs-in-a-microwave?utm_term=.sno3ZE62E#.jcdaeozjo
 Recipes for college students: https://www.budgetbytes.com/2014/08/top-10-recipes-for-college-students/
-
-
+How to hard boil an egg: https://www.youtube.com/watch?v=DKkNi7enlUk
+How to light a gas stove: https://www.youtube.com/watch?v=W8jjPeSrwgE
 
 
 
