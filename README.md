@@ -1,7 +1,7 @@
 # sheinnovates
 Video Files to add 
 Party Etiquette
-PICTURE
+PICTURE http://assets.nydailynews.com/polopoly_fs/1.1568424.1389103104!/img/httpImage/image.jpg_gen/derivatives/landscape_1200/michelle-obama-dancing.jpg
 How to get into a party: https://www.youtube.com/watch?v=u_BUNNFWBYU
 How to dance at a party:https://www.youtube.com/watch?v=k_DbEbOQcJE
 Top Party Songs: http://djcrashers.com/top-100-dance-and-party-songs/
