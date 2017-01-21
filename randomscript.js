@@ -13,6 +13,7 @@ window.onload = function(){
 	questionPicker(cat5Random, "cat5q1", "cat5q2", "cat5q3", "cat5q4", "cat5q5", "cat5q6");
 	questionPicker(cat6Random, "cat6q1", "cat6q2", "cat6q3", "cat6q4", "cat6q5", "cat6q6");
 
+//please paste here
 
 }
 
