@@ -1,0 +1,141 @@
+body {
+	height: 100%;
+	margin: 0;
+	text-align: center;
+	width: 100%;
+	background: #ffffff;
+}
+.page{ 
+	width:auto;
+	height:auto;
+} 
+.tile{ 
+	width:auto;
+	padding:5em;
+	height:auto; display:table;
+}
+.org { 
+	height:190em;
+	width:210em;
+	float:left;
+	margin:0 10em 0 0;
+	padding:2em;
+	cursor: pointer;
+	transition-property: background, border-radius;
+    transition-duration: 1s;
+    transition-timing-function: linear;
+}
+
+.orgBig{
+    width:319em;
+	cursor: pointer;
+	transition-property: background, border-radius;
+    transition-duration: 1s;
+    transition-timing-function: linear;
+}
+
+.orgBig:hover {
+  background: #ff7b29;
+  border-radius: 50%;
+}
+
+.yellow{
+	background:#DAA520;
+	}
+.verm{
+	background:#CD0000;
+	}
+.blue{
+	background:#4682B4;
+	}
+.green{
+	background-color: #2E8B57;
+	}
+
+h2 {
+	font-size: 56em;
+}
+
+h3{
+	font-size: 42em;
+	font-family: 'Trebuchet MS', Helvetica, sans-serif;
+	color: #ffffff;
+}
+
+.hero {
+	padding: 150em 0;
+	margin: 30em;
+	font-family: 'Trebuchet MS', Helvetica, sans-serif;
+	background-image: url("https://az616578.vo.msecnd.net/files/2016/09/30/636108671650787277-904655067_party.jpg");
+	background-size: cover;
+  color: #ffffff;
+}
+
+p {
+  font-size: 2em;
+}
+
+.hero a {
+	color: #00FFAA;
+	font-size: 1.25em;
+	text-decoration: none;
+}
+
+.name {
+	text-align: center;
+	width: 86%;
+	padding: 25em;
+	font-size: 35em;
+	font-family: Impact, Charcoal, sans-serif;
+	color: black;
+}
+nav {
+  background-color: #FFF;
+}
+
+nav li {
+  margin: 0;
+  padding: 0 10px;
+  display: inline;
+}
+
+nav ul {
+  display: inline;
+}
+
+.contact-btn {
+  float: right;
+
+}
+
+.contact-btn a {
+  margin-right: 30em;
+  padding: 8em 18em;
+  border: 1em solid #204156;
+
+}
+
+.contact-btn a:active {
+  position: relative;
+  bottom: 2em;
+}
+
+nav a {
+  height: 60rem;
+  line-height: 60rem;
+  color: #204156;
+  text-decoration: none;
+}
+
+
+#footer {
+  font-size: 0.75rem;
+}
+
+
+
+
+
+
+
+
