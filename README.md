@@ -1,7 +1,6 @@
 # sheinnovates
 Video Files to add 
 Party Etiquette
-PICTURE: http://assets.nydailynews.com/polopoly_fs/1.1568424.1389103104!/img/httpImage/image.jpg_gen/derivatives/landscape_1200/michelle-obama-dancing.jpg
 How to get into a party: https://www.youtube.com/watch?v=u_BUNNFWBYU
 How to dance at a party:https://www.youtube.com/watch?v=k_DbEbOQcJE
 Top Party Songs: http://djcrashers.com/top-100-dance-and-party-songs/
@@ -9,14 +8,13 @@ Tips for Safe drinking(OVER 21): http://www.knowyourlimits.info/know%E2%80%A6-yo
 
 
 Home/Dorm Ec:
-PICTURE: http://s3-origin-images.politico.com/2014/11/26/141125_michelle_obama_cook_gty_1160.jpg
 How to remove a stain:https://www.youtube.com/watch?v=ITmepPy1JCc
 How to do Laundry: https://www.youtube.com/watch?v=OavAnJ9Jegs
 How to sew a button:http://www.artofmanliness.com/2012/06/28/sewing-on-a-button/
-How to cook eggs in the microwave: https://www.buzzfeed.com/arielknutson/easy-ways-to-cooks-eggs-in-a-microwave?utm_term=.sno3ZE62E#.jcdaeozjo
-Recipes for college students: https://www.budgetbytes.com/2014/08/top-10-recipes-for-college-students/
-How to hard boil an egg: https://www.youtube.com/watch?v=DKkNi7enlUk
-How to light a gas stove: https://www.youtube.com/watch?v=W8jjPeSrwgE
+
+
+
+
 
 
 
@@ -30,6 +28,8 @@ How to write a resume: https://resumegenius.com/how-to-write-a-resume
 Language
 Hello in Different Languages: https://www.youtube.com/watch?v=Id67TMSKOzs
 Travel Tips: https://www.roughguides.com/article/14-travel-tips-everyone-should-know/
+How to pack a suitcase: http://www.realsimple.com/work-life/travel/travel-planning/pack-suitcase
+Traveling Michelle Picture: 
 
 
 
