@@ -20,18 +20,18 @@ How to hard boil an egg: https://www.youtube.com/watch?v=DKkNi7enlUk
 
 
 
-Formal Etiquette
+Formal Etiquette Picture: http://images.teamsugar.com/files/upl2/10/104169/14_2009/a603585e52f8dc5a_85753484.preview.jpg
 Dinner Etiquette: https://www.youtube.com/watch?v=hFzz6EZmkq8 
 Family Parties: https://www.youtube.com/watch?v=BahAbX7yWX8
 Career Help: https://www.youtube.com/watch?v=BahAbX7yWX8
 What not to do at interviews: http://www.cheatsheet.com/money-career/the-5-worst-things-to-do-during-a-job-interview.html/?a=viewall
 How to write a resume: https://resumegenius.com/how-to-write-a-resume
 
-Language
+Language/Travel Picture: http://www.worldaffairsjournal.org/sites/default/files/styles/full_view/public/800px-Michelle_Obama_arrives_at_Pope_AFB_3-12-09_2.jpg?itok=uiqu7qXH
 Hello in Different Languages: https://www.youtube.com/watch?v=Id67TMSKOzs
 Travel Tips: https://www.roughguides.com/article/14-travel-tips-everyone-should-know/
 How to pack a suitcase: http://www.realsimple.com/work-life/travel/travel-planning/pack-suitcase
-Traveling Michelle Picture: 
+
 
 
 
