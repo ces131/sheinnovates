@@ -1,0 +1,29 @@
+header {
+  padding: 20px 0;
+  text-align: center;
+  align-content: center;
+}
+
+
+
+header .row,
+footer .row {
+  display: flex;
+  align-items: center;
+  text-align: center;
+}
+
+body{
+	text-col
+	align-content: center;
+	text-align: center;
+  	
+  	background: #ce88c1;
+  	
+ul{
+       display: inline-block;
+       margin-left: auto;
+       margin-right: auto;
+       text-align: left;
+    }
+}
