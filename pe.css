@@ -11,15 +11,15 @@ body {
 } 
 .tile{ 
 	width:auto;
-	padding:5px;
+	padding:5em;
 	height:auto; display:table;
 }
 .org { 
-	height:190px;
-	width:210px;
+	height:190em;
+	width:210em;
 	float:left;
-	margin:0 10px 0 0;
-	padding:2px;
+	margin:0 10em 0 0;
+	padding:2em;
 	cursor: pointer;
 	transition-property: background, border-radius;
     transition-duration: 1s;
@@ -27,7 +27,7 @@ body {
 }
 
 .orgBig{
-    width:319px;
+    width:319em;
 	cursor: pointer;
 	transition-property: background, border-radius;
     transition-duration: 1s;
@@ -53,18 +53,18 @@ body {
 	}
 
 h2 {
-	font-size: 56px;
+	font-size: 56em;
 }
 
 h3{
-	font-size: 42px;
+	font-size: 42em;
 	font-family: 'Trebuchet MS', Helvetica, sans-serif;
 	color: #ffffff;
 }
 
 .hero {
-	padding: 150px 0;
-	margin: 30px;
+	padding: 150em 0;
+	margin: 30em;
 	font-family: 'Trebuchet MS', Helvetica, sans-serif;
 	background-image: url("https://az616578.vo.msecnd.net/files/2016/09/30/636108671650787277-904655067_party.jpg");
 	background-size: cover;
@@ -72,7 +72,7 @@ h3{
 }
 
 p {
-  font-size: 2rem;
+  font-size: 2em;
 }
 
 .hero a {
@@ -84,8 +84,8 @@ p {
 .name {
 	text-align: center;
 	width: 86%;
-	padding: 25px;
-	font-size: 35px;
+	padding: 25em;
+	font-size: 35em;
 	font-family: Impact, Charcoal, sans-serif;
 	color: black;
 }
@@ -109,20 +109,20 @@ nav ul {
 }
 
 .contact-btn a {
-  margin-right: 30px;
-  padding: 8px 18px;
-  border: 1px solid #204156;
+  margin-right: 30em;
+  padding: 8em 18em;
+  border: 1em solid #204156;
 
 }
 
 .contact-btn a:active {
   position: relative;
-  bottom: 2px;
+  bottom: 2em;
 }
 
 nav a {
-  height: 60px;
-  line-height: 60px;
+  height: 60rem;
+  line-height: 60rem;
   color: #204156;
   text-decoration: none;
 }
