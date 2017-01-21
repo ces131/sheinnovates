@@ -16,7 +16,7 @@ How to sew a button:http://www.artofmanliness.com/2012/06/28/sewing-on-a-button/
 How to cook eggs in a microwave: https://www.buzzfeed.com/arielknutson/easy-ways-to-cooks-eggs-in-a-microwave?utm_term=.sno3ZE62E#.jcdaeozjo
 Recipes for college students: https://www.budgetbytes.com/2014/08/top-10-recipes-for-college-students/
 How to hard boil an egg: https://www.youtube.com/watch?v=DKkNi7enlUk
-
+Personal Hygene PICTURE: http://www.usnews.com/dims4/USNEWS/a8d917b/2147483647/thumbnail/970x647/quality/85/?url=%2Fcmsmedia%2F4b%2F6e0b99f66d34969c9e71127580f56c%2F171-13
 
 
 
@@ -33,7 +33,6 @@ Travel Tips: https://www.roughguides.com/article/14-travel-tips-everyone-should-
 How to pack a suitcase: http://www.realsimple.com/work-life/travel/travel-planning/pack-suitcase
 
 
-City Survival
-PICTURE: https://i.ytimg.com/vi/RaTMdOeZzVo/maxresdefault.jpg
+
 
 
