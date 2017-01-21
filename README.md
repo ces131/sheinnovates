@@ -1,6 +1,7 @@
 # sheinnovates
 Video Files to add 
 Party Etiquette
+PICTURE
 How to get into a party: https://www.youtube.com/watch?v=u_BUNNFWBYU
 How to dance at a party:https://www.youtube.com/watch?v=k_DbEbOQcJE
 Top Party Songs: http://djcrashers.com/top-100-dance-and-party-songs/
@@ -8,6 +9,7 @@ Tips for Safe drinking(OVER 21): http://www.knowyourlimits.info/know%E2%80%A6-yo
 
 
 Home/Dorm Ec:
+PICTURE: http://s3-origin-images.politico.com/2014/11/26/141125_michelle_obama_cook_gty_1160.jpg
 How to remove a stain:https://www.youtube.com/watch?v=ITmepPy1JCc
 How to do Laundry: https://www.youtube.com/watch?v=OavAnJ9Jegs
 How to sew a button:http://www.artofmanliness.com/2012/06/28/sewing-on-a-button/
