@@ -38,3 +38,4 @@ PICTURE https://i.ytimg.com/vi/RaTMdOeZzVo/maxresdefault.jpg
 Download the transit app for bus times! https://transitapp.com/
 Things to do in pittsburgh https://www.visitpittsburgh.com/things-to-do/
 How to dress yourself for the weather: http://dailydressme.com/
+How to be safe in a city https://www.youtube.com/watch?v=Dgf9rIAjJlA
