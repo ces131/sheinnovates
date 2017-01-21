@@ -18,6 +18,7 @@ Recipes for college students: https://www.budgetbytes.com/2014/08/top-10-recipes
 How to hard boil an egg: https://www.youtube.com/watch?v=DKkNi7enlUk
 
 Personal Hygene PICTURE: http://www.usnews.com/dims4/USNEWS/a8d917b/2147483647/thumbnail/970x647/quality/85/?url=%2Fcmsmedia%2F4b%2F6e0b99f66d34969c9e71127580f56c%2F171-13
+How to brush your teeth:http://www.mouthhealthy.org/en/az-topics/b/brushing-your-teeth
 
 
 
