@@ -13,7 +13,7 @@ PICTURE: http://s3-origin-images.politico.com/2014/11/26/141125_michelle_obama_c
 How to remove a stain:https://www.youtube.com/watch?v=ITmepPy1JCc
 How to do Laundry: https://www.youtube.com/watch?v=OavAnJ9Jegs
 How to sew a button:http://www.artofmanliness.com/2012/06/28/sewing-on-a-button/
-
+How to cook eggs in a microwave: https://www.buzzfeed.com/arielknutson/easy-ways-to-cooks-eggs-in-a-microwave?utm_term=.sno3ZE62E#.jcdaeozjo
 
 
 
