@@ -1,98 +1,141 @@
 body {
-  font-family: 'Roboto', sans-serif;
-  font-weight: 300;
+	height: 100%;
+	margin: 0;
+	text-align: center;
+	width: 100%;
+	background: #ffffff;
+}
+.page{ 
+	width:auto;
+	height:auto;
+} 
+.tile{ 
+	width:auto;
+	padding:5px;
+	height:auto; display:table;
+}
+.org { 
+	height:190px;
+	width:210px;
+	float:left;
+	margin:0 10px 0 0;
+	padding:2px;
+	cursor: pointer;
+	transition-property: background, border-radius;
+    transition-duration: 1s;
+    transition-timing-function: linear;
 }
 
-header {
-  padding: 20px 0;
+.orgBig{
+    width:319px;
+	cursor: pointer;
+	transition-property: background, border-radius;
+    transition-duration: 1s;
+    transition-timing-function: linear;
 }
 
-header .row,
-footer .row {
-  display: flex;
-  align-items: center;
+.orgBig:hover {
+  background: #ff7b29;
+  border-radius: 50%;
 }
 
-header h1 {
-  font-weight: 700;
-  margin: 0;
+.yellow{
+	background:#DAA520;
+	}
+.verm{
+	background:#CD0000;
+	}
+.blue{
+	background:#4682B4;
+	}
+.green{
+	background-color: #2E8B57;
+	}
+
+h2 {
+	font-size: 56px;
 }
 
-header nav {
-  display: flex;
-  justify-content: flex-end;
+h3{
+	font-size: 42px;
+	font-family: 'Trebuchet MS', Helvetica, sans-serif;
+	color: #ffffff;
 }
 
-header p {
-  padding: 0 20px;
-  margin: 0;
-}
-
-.jumbotron {
-  display: flex;
-  align-items: center;
-  background-image: url('http://www.brooklineconnection.com/history/Facts/images/Cathedral2012.JPG');
-  background-size: cover;
+.hero {
+	padding: 150px 0;
+	margin: 30px;
+	font-family: 'Trebuchet MS', Helvetica, sans-serif;
+	background-image: url("https://az616578.vo.msecnd.net/files/2016/09/30/636108671650787277-904655067_party.jpg");
+	background-size: cover;
   color: #ffffff;
-  height: 500px;
-  text-shadow: 0.25px 0.25px 0.25px #000000;
 }
 
-.jumbotron h2 {
-  font-size: 60px;
-  font-weight: 700;
+p {
+  font-size: 2rem;
+}
+
+.hero a {
+	color: #00FFAA;
+	font-size: 1.25em;
+	text-decoration: none;
+}
+
+.name {
+	text-align: center;
+	width: 86%;
+	padding: 25px;
+	font-size: 35px;
+	font-family: Impact, Charcoal, sans-serif;
+	color: black;
+}
+nav {
+  background-color: #FFF;
+}
+
+nav li {
   margin: 0;
-  color: #fff;
+  padding: 0 10px;
+  display: inline;
 }
 
-.jumbotron h3 {
-  margin: 0 0 20px;
-  color: #fff;
+nav ul {
+  display: inline;
 }
 
-section .row img {
-  margin: 0 0 30px;
-  width: 100%;
+.contact-btn {
+  float: right;
+
 }
 
-.col-md-6 {
-  margin: 0 0 30px;
+.contact-btn a {
+  margin-right: 30px;
+  padding: 8px 18px;
+  border: 1px solid #204156;
+
 }
 
-.btn.btn-primary {
-  border-radius: 2px;
-  border: 0px;
-  color: #fbd1d5;
-  text-shadow: none;
-  background-color: #ffffff;
+.contact-btn a:active {
+  position: relative;
+  bottom: 2px;
 }
 
-.btn.btn-primary:hover {
-  color: #ffffff;
-  background-color: #fbd1d5;
+nav a {
+  height: 60px;
+  line-height: 60px;
+  color: #204156;
+  text-decoration: none;
 }
 
-.btn-secondary {
-  background-color: #E8DFE0;
-  color: #ffffff;
-  margin: 0 0 30px;
+
+#footer {
+  font-size: 0.75rem;
 }
 
-footer {
-  font-size: 12px;
-  padding: 20px 0;
-}
 
-footer .col-sm-8 {
-  display: flex;
-  justify-content: flex-end;
-}
 
-footer ul {
-  list-style: none;
-}
 
-footer li img {
-  width: 32px;
-  height: 32px;
-}
+
+
+
+
