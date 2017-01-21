@@ -19,7 +19,7 @@ How to hard boil an egg: https://www.youtube.com/watch?v=DKkNi7enlUk
 
 Personal Hygene PICTURE: http://www.usnews.com/dims4/USNEWS/a8d917b/2147483647/thumbnail/970x647/quality/85/?url=%2Fcmsmedia%2F4b%2F6e0b99f66d34969c9e71127580f56c%2F171-13
 How to brush your teeth:http://www.mouthhealthy.org/en/az-topics/b/brushing-your-teeth
-
+How often to wash your sheets: http://www.huffingtonpost.com/entry/how-often-you-should-actually-be-washing-your-sheets_us_55cb9271e4b0f1cbf1e72931
 
 
 Formal Etiquette Picture: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Barack_Obama_Michelle_Obama_Queen_Elizabeth_II_Buckingham_Palace_London.jpg/800px-Barack_Obama_Michelle_Obama_Queen_Elizabeth_II_Buckingham_Palace_London.jpg
