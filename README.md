@@ -22,6 +22,7 @@ How to brush your teeth:http://www.mouthhealthy.org/en/az-topics/b/brushing-your
 How often to wash your sheets: http://www.huffingtonpost.com/entry/how-often-you-should-actually-be-washing-your-sheets_us_55cb9271e4b0f1cbf1e72931
 What to have in your shower caddy: https://www.youtube.com/watch?v=NpLswvJy2QE
 Should i shower? http://www.gotoquiz.com/should_you_take_a_shower
+How to dress for class: http://www.collegecures.com/2011/dressing-for-college-101-how-to-dress-appropriately-as-a-student-and-young-professional/
 
 Formal Etiquette Picture: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Barack_Obama_Michelle_Obama_Queen_Elizabeth_II_Buckingham_Palace_London.jpg/800px-Barack_Obama_Michelle_Obama_Queen_Elizabeth_II_Buckingham_Palace_London.jpg
 Dinner Etiquette: https://www.youtube.com/watch?v=hFzz6EZmkq8 
