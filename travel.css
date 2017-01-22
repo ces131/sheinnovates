@@ -1,0 +1,151 @@
+body {
+	height: 100%;
+	margin: 0;
+	text-align: center;
+	width: 100%;
+	
+	
+
+}
+.heading{
+	font-family: Impact, Charcoal, sans-serif;
+	font-size: 50px;
+	color:#fff2e6;
+	text-decoration: none;
+}
+
+.image {
+	postion: relative;
+
+}
+
+
+
+	
+
+.page{ 
+	width:auto;
+	height:auto;
+	width: 100%;
+	height: 100%
+	padding: 0;
+	background-color: #3D311D;
+	
+	
+} 
+
+.org { 
+	height:200px;
+	width:200px;
+	float:left;
+	margin:2px;
+	padding:2px;
+	cursor: pointer;
+	transition-property: background, border-radius;
+    transition-duration: 1s;
+    transition-timing-function: linear;
+}
+
+.orgBig{
+    width:210px;
+	cursor: pointer;
+	transition-property: background, border-radius;
+    transition-duration: 1s;
+    transition-timing-function: linear;
+
+}
+
+.orgBig:hover {
+  background: #ffe6cc;
+  height: 400px;
+
+
+}
+
+.orgDif{
+    width:210px;
+	cursor: pointer;
+	transition-property: background, border-radius;
+    transition-duration: 1s;
+    transition-timing-function: linear;
+
+}
+
+.orgDif:hover {
+  background: #ccf5ff;
+  border-radius: 50%;
+
+
+}
+.teal{
+	background: #66b3ff;
+	}
+.purple{
+	background:#ffa64d;
+	}
+.gold{
+	background:#cce6ff;
+	}
+.brown{
+	background-color: #3D311D;
+	}
+
+}
+
+h2{
+	font-size: 150px;
+	color: white;
+
+}
+
+h3{
+	font-size: 42px;
+	font-family: 'Trebuchet MS', Helvetica, sans-serif;
+	color: #ffffff;
+}
+
+.hero {
+
+	font-family: 'Trebuchet MS', Helvetica, sans-serif;
+	background: #3D311D url('https://images.trvl-media.com/media/content/expus/graphics/launch/flight1320x742.jpg');
+	background-size: cover;
+	padding: 200px;
+
+}
+	
+	
+  
+
+
+p {
+  	font-size: 15px;
+ 	color:black;
+	text-align: initial;
+	font-family: Galliard-ITC;
+
+}
+
+}
+
+.hero a {
+	color: #00FFAA;
+	font-size: 1.25em;
+	text-decoration: none;
+
+}
+
+.name {
+	text-align: center;
+	width: 86%;
+	padding: 25px;
+	font-size: 25px;
+	font-family: Impact, Charcoal, sans-serif;
+	color: black;
+}
+
+
+.text{
+	color: #3D311D ;
+}
+
+
