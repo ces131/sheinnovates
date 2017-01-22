@@ -7,7 +7,8 @@
         <body>
             <div id="quiz"></div></div>
 	    <button onclick="checkAnswers()">Submit!</button>
-			<div id="reveal"></div></div>
+			<div id="reveal"></div>
+			
         </body>
         <script>
         var categories = 
@@ -16,25 +17,29 @@
                 prompt: "How do you know when the next bus is coming?",
                 answers:["Close your eyes and count to 20", "There is no way to tell", "Check the Transit app", "They come once every hour"],
 				answerIndex: 2,
-				correctMessage: "Question 1: Correct!"
-				incorrectMessage: "Question 1: Incorrect! Check out <a href=city.html><Hop on the Magic School Bus?></a>
+				correctMessage: "Question 1: Correct!",
+				incorrectMessage: "Question 1: Incorrect! Check out <a href=\"city.html\">Hop on the Magic School Bus?</a>"
             },
             {   prompt: "What are good things to do in Pittsburgh?",
-                answers: ["Go to Pirates Game", "Duquesne Incline", "Carnegie Mueseum", "All of the above"]
-                answerIndex:3,
-		correct
+                answers: ["Go to Pirates Game", "Duquesne Incline", "Carnegie Mueseum", "All of the above"],
+                answerIndex: 3
+            
             },
             {   prompt: "What should you have with you if it is raining?",
-                answers: ["Umbrella", "Snowboots", "Sunglasses", "Fedora"]
+                answers: ["Umbrella", "Snowboots", "Sunglasses", "Fedora"],
+                answerIndex: 0
             },
             {   prompt: "What should you be aware of in a city?",
-                answers: ["Pickpocketers","Flashmobs","Where you are", "All of the above"]
+                answers: ["Pickpocketers","Flashmobs","Where you are", "All of the above"],
+                answerIndex: 3
             },
             {   prompt: "What are the Pittsburgh buses called?",
-                answers: ["PBus", "Port Authority", "Magic School Bus", "Fort Authority"]
+                answers: ["PBus", "Port Authority", "Magic School Bus", "Fort Authority"],
+                answerIndex: 1
             },
             {   prompt: "Which is not a Pittsburgh classic?",
-                answers: ["Primanti's", "Pamela's", "Montery Pub", "Lombardi's"]
+                answers: ["Primanti's", "Pamela's", "Montery Pub", "Lombardi's"],
+                answerIndex:3
             }]
 	},
 	{
@@ -99,6 +104,8 @@
             {   prompt: "What side of the plate does the fork go on?",
                 answers: ["left", "right", "on the plate", "between your toes"]
             }],
+        },
+        {
             questions: [{
                 prompt: "How do you say Hello in Spanish?",
                 answers: ["Hola", "el Hello", "Adios", "Halo"]
@@ -117,63 +124,40 @@
                 answers: ["The Day before", "4-8 Weeks in advance", "Two weeks in advance", "4 Months in advance"]
             },
             {   prompt: "What are important words to know in other languages?",
-                answers: ["Hello", "How are you", "Thank you", "All of the above"],
-	    }
-				answerIndex: 3,
-				correctMessage: "Question 5: Correct!",
-				incorrectMessage: "Question 5: Incorrect! Check out ...<a href = dormEC.html><Loose a button?></a>"
-		       ]
+                answers: ["Hello", "How are you", "Thank you", "All of the above"]
+            }]
 	},
 	{
             questions: [{
                 prompt: "Which do you not need to sew a button?",
-                answers: ["Thread", "Needle", "Button", "Pliers"],
-		    		answerIndex: 3,
-				correctMessage: "Question 6: Correct!",
-				incorrectMessage: "Question 6: Incorrect! Check out ...<a href = dormECfinal.html><Loose a button?></a>"
+                answers: ["Thread", "Needle", "Button", "Pliers"]
             },
             {   prompt: "What is essentialy useless in your life?",
-                answers: ["dryer sheets", "seperating lights and darks", "fabric softener", "all of the above"],
-	     			 answerIndex: 3,
-				correctMessage: "Question 6: Correct!",
-				incorrectMessage: "Question 6: Incorrect! Check out ...<a href = dormECfinal.html><Laundry 101></a>"
+                answers: ["drier sheets", "seperating lights and darks", "fabric softener", "all of the above"]
             },
             {   prompt: "Can I microwave it?",
                 answers: ["vegetables", "brown paper bag", "coffee mug", "socks"]
-	     			 answerIndex: 2,
-				correctMessage: "Question 6: Correct!"
-				incorrectMessage: "Question 6: Incorrect! Check out ...<a href = dormECfinal.html><An Eggsalent Breakfast></a>"
             },
             {   prompt: "What temperture water do you put the egg in to hard boil it?",
-                answers: ["boiling", "as cold as Dante's ninth circle of hell", "room temperature/cool", "there is no water involved with hard boiling an egg"],
-	    			  answerIndex: 2,
-				correctMessage: "Question 6: Correct!",
-				incorrectMessage: "Question 6: Incorrect! Check out ...<a href = dormECfinal.html><Another Eggtastic meal...></a>"
+                answers: ["boiling", "as cold as Dante's ninth circle of hell", "room temperature/cool", "there is no water involved with hard boiling an egg"]
             },
             {   prompt: "What's the healthiest thing to eat?",
-                answers: ["vegetables", "ramen noodles", "peanut butter", "ramen noodles (with veggie flavor packet)"],
-	      			answerIndex: 0,
-				correctMessage: "Question 6: Correct!",
-				incorrectMessage: "Question 6: Incorrect! Check out ...<a href = dormECfinal.html><Tired of Market?></a>"
+                answers: ["vegetables", "ramen noodles", "peanut butter", "ramen noodles (with veggie flavor packet)"]
             },
             {   prompt: "What should you do about a stain?",
-                answers: ["call mom", "throw your shirt away", "use stain remover like tide stick", "saliva will take care of that"],
-            
-		 		answerIndex: 2,
-				correctMessage: "Question 6: Correct!",
-	  	incorrectMessage: "Question 6: Incorrect! Check out ...<a href = dormEC.html><That better be chocolate...></a>"
-	       }]	
+                answers: ["call mom", "throw your shirt away", "use stain remover like tide stick", "saliva will take care of that"]
+            }]
     	}];
         
-	var randIndex;
+	var randIndex = new Array(4);
         
             for(var i = 0; i < categories.length; i++) 
             {
                 //get the current category
                 var category = categories[i];
                 //get a random question from that category
-		randIndex = Math.floor(Math.random()*categories[i].questions.length)
-                var question = category.questions[randIndex];
+		randIndex[i] = Math.floor(Math.random()*categories[i].questions.length)
+                var question = category.questions[randIndex[i]];
                 //get the prompt and answers from that question
                 var prompt = question.prompt;
                 var answers = question.answers;
@@ -201,22 +185,28 @@
             {
 		//get the answer to the category question selected from earlier
 		var category = categories[i];
-		var question = category.questions[randIndex];
+		var question = category.questions[randIndex[i]];
 		var correctAnswer = question.answerIndex;
 		//now find what the user entered for that category
 		var submittedAnswer = document.querySelector('input[name="category-' + i + '"]:checked').value;
-		var answersHTMLString = "<p>" 
-		console.log(correctAnswer);
-		console.log(submittedAnswer);
+		//var answersHTMLString = "<p>" 
+		//console.log(correctAnswer);
+		//console.log(submittedAnswer);
+		var innerHTMLString = "<p>test</p>"
 		if(correctAnswer == submittedAnswer){
-			answersHTMLString += correctMessage + "</p>";
+			var innerHTMLString = "<p>" + question.correctMessage + "</p>"
+			//answersHTMLString += correctMessage + "</p>";
 		}else{
-			answersHTMLString+= incorrectMessage + "</p>";
+			var innerHTMLString = "<p>" + question.incorrectMessage + "</p>"
+			innerHTMLString += "<p>correct:" + correctAnswer + "</p>"
 		}
-		var div = document.createElement('div');
-		div.innerHTML = answersHTMLString;
-		var answersContainer = document.getElementById("reveal");
-		answersContainer.appendchild(div);
+		 var div = document.createElement('div');
+                //add this HTML string to the div
+           div.innerHTML = innerHTMLString;
+                //add the div to the quiz contain
+                var revealContainer = document.getElementById("reveal");
+                revealContainer.appendChild(div); 
+		
             }
             
 	}
