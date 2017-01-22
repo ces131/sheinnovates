@@ -1,0 +1,153 @@
+body {
+	height: 100%;
+	margin: 0;
+	text-align: center;
+	width: 100%;
+	
+	
+
+}
+.heading{
+	font-family: Impact, Charcoal, sans-serif;
+	font-size: 50px;
+	color: #ffffe6;
+	text-decoration: black;
+
+}
+
+.image {
+	postion: relative;
+
+}
+
+
+
+	
+
+.page{ 
+	width:auto;
+	height:auto;
+	width: 100%;
+	height: 100%
+	padding: 0;
+	background-color: #000033;
+	
+	
+} 
+
+.org { 
+	height:200px;
+	width:200px;
+	float:left;
+	margin:2px;
+	padding:2px;
+	cursor: pointer;
+	transition-property: background, border-radius;
+    transition-duration: 1s;
+    transition-timing-function: linear;
+}
+
+.orgBig{
+    width:210px;
+	cursor: pointer;
+	transition-property: background, border-radius;
+    transition-duration: 1s;
+    transition-timing-function: linear;
+
+}
+
+.orgBig:hover {
+  background: #ffe6e6;
+  height: 400px;
+
+
+}
+
+.orgDif{
+    width:210px;
+	cursor: pointer;
+	transition-property: background, border-radius;
+    transition-duration: 1s;
+    transition-timing-function: linear;
+
+}
+
+.orgDif:hover {
+  background: #ccf5ff;
+  border-radius: 50%;
+
+
+}
+.teal{
+	background:#ff9999;
+	}
+.purple{
+	background:#ffaa80;
+	}
+.gold{
+	background:#F2D585;
+	}
+.brown{
+	background-color: #000033;
+	}
+
+}
+
+h2{
+	font-size: 150px;
+	color: white;
+
+}
+
+h3{
+	font-size: 42px;
+	font-family: 'Trebuchet MS', Helvetica, sans-serif;
+	color: #ffffff;
+}
+
+.hero {
+
+	font-family: 'Trebuchet MS', Helvetica, sans-serif;
+	background: #3D311D url('https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwallpaperscraft.com%2Fimage%2Fthread_ussr_buttons_sewing_wood_background_80516_3840x2400.jpg&data=01%7C01%7Cned38%40pitt.edu%7C18893dff95434103e92008d4425e901b%7C9ef9f489e0a04eeb87cc3a526112fd0d%7C1&sdata=rG3SeCMrZb61F9MEouyBVOi8MRy6zu1V0Bna211ETlU%3D&reserved=0');
+	background-size: cover;
+	padding: 200px;
+
+
+}
+	
+	
+  
+
+
+p {
+  	font-size: 15px;
+ 	color:black;
+	text-align: initial;
+	font-family: Galliard-ITC;
+
+}
+
+}
+
+.hero a {
+	color: #00FFAA;
+	font-size: 1.25em;
+	text-decoration: none;
+
+}
+
+.name {
+	text-align: center;
+	width: 86%;
+	padding: 25px;
+	font-size: 25px;
+	font-family: Impact, Charcoal, sans-serif;
+	color: black;
+}
+
+
+.text{
+	color: #000033 ;
+}
+
+

@@ -1,0 +1,160 @@
+header {
+  padding: 10px 0;
+}
+
+header .row,
+footer .row {
+  display: flex;
+  align-items: center;
+}
+
+header h1 {
+  font-weight: 500;
+  margin: 0;
+  text-align: center;
+}
+
+header nav {
+  display: flex;
+  justify-content: flex-end;
+  text-align: right;
+}
+
+header p {
+  padding: 0 20px;
+  margin: 0;
+}
+
+
+body {
+	height: 100%;
+	margin: 0;
+	text-align: center;
+	width: 100%;
+	background: #f2e6d9;
+}
+
+
+.page{ 
+	width:auto;
+	height:auto;
+} 
+.tile{ 
+	width:auto;
+	padding:5px;
+	height:auto; display:table;
+}
+.org { 
+	height:190px;
+	width:248px;
+	float:left;
+	margin:0 10px 0 0;
+	padding:2px;
+	cursor: pointer;
+	transition-property: background, border-radius;
+    transition-duration: 1s;
+    transition-timing-function: linear;
+}
+
+h3 {
+	font-size: 40px;
+	font-family: 'Trebuchet MS', Helvetica, sans-serif;
+}
+
+.name {
+	font-size: 40px;
+	font-family: 'Trebuchet MS', Helvetica, sans-serif;
+}
+
+a.links {
+	background-color: white;
+}
+.btn.btn-primary {
+  border-radius: 2px;
+  border: 5px;
+  color: black;
+  text-shadow: none;
+  background-color: #f2e6d9;
+}
+
+.btn.btn-primary:hover {
+  color: black;
+  background-color: #004d00;
+}
+
+
+.hero {
+	padding: 120px ;
+	margin: 10px;
+	font-family: 'Trebuchet MS', Helvetica, sans-serif;
+	background-image: url("https://upload.wikimedia.org/wikipedia/commons/c/cf/Cathedral_of_Learning_Pittsburgh_(3).jpg");
+	background-size: cover;
+	color: black;
+	font-size: 75px;
+}
+
+.michelle {
+	padding: 120px ;
+	margin: 10px;
+	font-family: 'Trebuchet MS', Helvetica, sans-serif;
+	background-image: url("http://s3-origin-images.politico.com/2014/11/26/141125_michelle_obama_cook_gty_1160.jpg");
+	background-size: cover;
+	color: white;
+	font-size: 50px;
+}
+
+.michellecuatro {
+	padding: 150px ;
+	margin: 10px;
+	font-family: 'Trebuchet MS', Helvetica, sans-serif;
+	background-image: url("http://www.usnews.com/dims4/USNEWS/a8d917b/2147483647/thumbnail/970x647/quality/85/?url=%2Fcmsmedia%2F4b%2F6e0b99f66d34969c9e71127580f56c%2F171-13");
+	background-size: cover;
+	color: white;
+	font-size: 50px;
+}
+	
+.michythree {
+	padding: 150px ;
+	margin: 10px;
+	font-family: 'Trebuchet MS', Helvetica, sans-serif;
+	background-image: url("http://assets.nydailynews.com/polopoly_fs/1.1568424.1389103104!/img/httpImage/image.jpg_gen/derivatives/landscape_1200/michelle-obama-dancing.jpg");
+	background-size: cover;
+	color: white;
+	font-size: 50px;
+}
+
+.michellefour {
+	padding: 120px ;
+	margin: 10px;
+	font-family: 'Trebuchet MS', Helvetica, sans-serif;
+	background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Barack_Obama_Michelle_Obama_Queen_Elizabeth_II_Buckingham_Palace_London.jpg/800px-Barack_Obama_Michelle_Obama_Queen_Elizabeth_II_Buckingham_Palace_London.jpg");
+	background-size: cover;
+	color: white;
+	font-size: 50px;
+}
+.michellefive {
+	padding: 140px ;
+	margin: 10px;
+	font-family: 'Trebuchet MS', Helvetica, sans-serif;
+	background-image: url("http://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/lg/public/2013/06/28/rtx114ja.jpg");
+	background-size: cover;
+	color: white;
+	font-size: 50px;
+}
+
+.michellesix {
+	padding: 120px ;
+	margin: 10px;
+	font-family: 'Trebuchet MS', Helvetica, sans-serif;
+	background-image: url("https://i.ytimg.com/vi/RaTMdOeZzVo/maxresdefault.jpg");
+	background-size: cover;
+	color: white;
+	font-size: 50px;
+}
+
+a {
+  color: blue;
+  text-decoration: none; /* no underline */
+}
+
+
